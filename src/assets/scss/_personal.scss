@@ -1,0 +1,85 @@
+// fuente personalidad
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+// header
+table.header {
+  table.logo {
+    background-color: transparent;
+    img {
+      width: 50px;
+    }
+  }
+  table.container {
+    border-radius: 5px 5px 0 0;
+  }
+  h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+}
+
+
+table.contenedor {
+  border-radius: 5px;
+  p {
+    font-size: 18px;
+    color: $dark-gray;
+    font-weight: 400;
+    margin-bottom: 0;
+  }
+  .contenedor__btn {
+    a {
+      padding: 15px 25px;
+      font-size: 20px;
+      font-weight: 400;
+    }
+  }
+  .contenedor__enlace {
+    color: $primary-color;
+    text-decoration: underline;
+  }
+}
+
+
+
+table.mensaje{
+  table.callout {
+    margin-bottom: 0;
+    .callout-inner {
+      padding: 30px;
+      background-color: $secondary-color;
+      border: none;
+    }
+    p,
+    h2 {
+      text-align: center;
+      margin-bottom: 0px;
+    }
+    h2 {
+      color: $black;
+      font-size: 20px;
+    }
+    p {
+      a {
+        text-decoration: underline;
+        font-size: 18px;
+      }
+    }
+  }
+}
+
+
+// footer
+table.footer {
+  background-color: transparent;
+  p {
+    color: $dark-gray;
+    font-size: 14px;
+  }
+  a {
+    text-decoration: underline;
+    color: $black;
+    font-weight: 700;
+  }
+}
