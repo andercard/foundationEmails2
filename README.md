@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation for Emails Template
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
@@ -87,3 +88,7 @@ For a full list of Litmus' supported test clients(applications) see their [clien
 **Caution:** AWS Service Fees will result, however, are usually very low do to minimal traffic. Use at your own discretion.
 
 
+=======
+# foundationEmails2
+Mini curso foundation emails 2 https://www.youtube.com/watch?v=pyBzYzUHAn0
+>>>>>>> d00cc229c54a9ce6446bc924d617efb61e760517
